@@ -16,3 +16,5 @@ succeed even without having to look at any solutions!
 day 4: Way bigger file size than i wanted it to be, and it has 4 nested loops so if you're looking for a fast day 4 solution look somewhere else.
 
 day 5: I feel like there is a way to find all the points without simulating the whole board, but if there is one i haven't found it, I also dislike the hardcoded size of 1000x1000 for the grid, but I don't have the time or energy to make better code today.
+
+day 6: This challange was kind of easy but very fun to do! in part 1 I tried to get a solution in as little lines as possible, in which I think I suceeded, but in part 2 I can't just use the same code as it took lonfer than a minute and I did not feel like waiting, so I just used a whole lot of varible assignment, which is a million times faster but it's a lot of repeating code.
