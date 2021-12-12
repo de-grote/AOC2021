@@ -24,3 +24,9 @@ day 7: My solution here is pretty optimised, eventhough it takes a second or two
 day 8: part 1 was an easy one-liner but part 2 took me hours to complete, I still despise the linecount even after I shorted it by 50%.
 
 day 9: I really liked the challange of today! and my solutions too. Part 1 is just some looping, but part 2 has a whole to-do list of places it needs to check, eventhough it's pretty slow I love the way it works!
+
+day 10: Pretty easy day, still a good and fun challange though.
+
+day 11: This one took a lot of time and effort, looking back on it, I should've probably just used a 2d array but i really wasn't feeling like it, so thats what all that for loop hardcoding is.
+
+day 12: while very difficult, I think i did a great job at doing recursive backtracking, which I've honestly never done before, but it was a lot of fun to make, and fix.
