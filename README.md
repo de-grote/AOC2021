@@ -30,3 +30,5 @@ day 10: Pretty easy day, still a good and fun challange though.
 day 11: This one took a lot of time and effort, looking back on it, I should've probably just used a 2d array but i really wasn't feeling like it, so thats what all that for loop hardcoding is.
 
 day 12: while very difficult, I think i did a great job at doing recursive backtracking, which I've honestly never done before, but it was a lot of fun to make, and fix.
+
+day 13: I still don't know how solution 1 works and at this point I'm too afraid to find out, also part 2 took me longer than I want to admit so I'll just not say how long it took...
