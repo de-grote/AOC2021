@@ -32,3 +32,5 @@ day 11: This one took a lot of time and effort, looking back on it, I should've 
 day 12: while very difficult, I think i did a great job at doing recursive backtracking, which I've honestly never done before, but it was a lot of fun to make, and fix.
 
 day 13: I still don't know how solution 1 works and at this point I'm too afraid to find out, also part 2 took me longer than I want to admit so I'll just not say how long it took...
+
+day 14: Solution 1 is better than solution 2 eventhough it's slower, fight me.
