@@ -36,3 +36,5 @@ day 13: I still don't know how solution 1 works and at this point I'm too afraid
 day 14: Solution 1 is better than solution 2 eventhough it's slower, fight me.
 
 day 15: Why do I need to make someone elses homework? btw part 2 takes like 3 hours and I'm not going to make it better.
+
+day 16: A lot of hardcoding but very doable, it was harder to know what to make than to make it.
