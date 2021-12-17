@@ -38,3 +38,5 @@ day 14: Solution 1 is better than solution 2 eventhough it's slower, fight me.
 day 15: Why do I need to make someone elses homework? btw part 2 takes like 3 hours and I'm not going to make it better.
 
 day 16: A lot of hardcoding but very doable, it was harder to know what to make than to make it.
+
+day 17: After two days of way to complicated challanges we finally got a good one! Part 1 in one line and part 2 with optimised search.
